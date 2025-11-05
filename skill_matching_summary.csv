@@ -1,0 +1,10 @@
+pair_group,cv_id,jd_id,role,n_cv,n_jd,avg_sim,jaccard,tfidf_cos,top5_preview
+role:Data Analyst,cv_da_ru_003,jd_da_ru_103,Data Analyst,14,12,0.949,0.8571,0.8695,PostgreSQL ↔ PostgreSQL (1.00); SQL ↔ SQL (1.00); ClickHouse ↔ ClickHouse (1.00); Python ↔ Python (1.00); Tableau ↔ Tableau (1.00)
+role:Data Analyst,cv_da_ru_006,jd_da_ru_106,Data Analyst,12,14,0.9165,0.7333,0.8163,PostgreSQL ↔ PostgreSQL (1.00); SQL ↔ SQL (1.00); Tableau ↔ Tableau (1.00); Python ↔ Python (1.00); dbt ↔ dbt (1.00)
+role:Data Engineer,cv_de_ru_011,jd_de_ru_105,Data Engineer,14,16,0.9057,0.6667,0.8029,SQL ↔ SQL (1.00); Spark ↔ Spark (1.00); CDC ↔ CDC (1.00); Terraform ↔ Terraform (1.00); Python ↔ Python (1.00)
+role:Data Engineer,cv_de_ru_010,jd_de_ru_107,Data Engineer,15,15,0.8908,0.6667,0.7725,BigQuery ↔ BigQuery (1.00); Spark ↔ Spark (1.00); SQL ↔ SQL (1.00); Flink ↔ Flink (1.00); PySpark ↔ PySpark (1.00)
+role:Data Scientist,cv_ds_ru_007,jd_ds_ru_109,Data Scientist,15,8,0.852,0.5333,0.6972,MLflow ↔ MLflow (1.00); SQL ↔ SQL (1.00); Transformers ↔ Transformers (1.00); Python ↔ Python (1.00); PyTorch ↔ PyTorch (1.00)
+role:Data Engineer,cv_de_ru_002,jd_de_ru_102,Data Engineer,24,20,0.8381,0.5172,0.7919,Docker ↔ Docker (1.00); CI/CD ↔ CI/CD (1.00); Spark ↔ Spark (1.00); Debezium ↔ Debezium (1.00); Kafka Connect ↔ Kafka Connect (1.00)
+role:Data Scientist,cv_ds_ru_008,jd_ds_ru_101,Data Scientist,10,13,0.8376,0.5333,0.7037,CatBoost ↔ CatBoost (1.00); Airflow ↔ Airflow (1.00); LightGBM ↔ LightGBM (1.00); MLflow ↔ MLflow (1.00); SQL ↔ SQL (1.00)
+role:Data Analyst,cv_da_ru_012,jd_da_ru_108,Data Analyst,10,10,0.8237,0.5385,0.666,Grafana ↔ Grafana (1.00); Tableau ↔ Tableau (1.00); Python ↔ Python (1.00); SQL ↔ SQL (1.00); pandas ↔ pandas (1.00)
+role:Data Scientist,cv_ds_ru_004,jd_ds_ru_104,Data Scientist,14,13,0.7862,0.4211,0.6105,Docker ↔ Docker (1.00); MLflow ↔ MLflow (1.00); LightGBM ↔ LightGBM (1.00); SQL ↔ SQL (1.00); pandas ↔ pandas (1.00)
